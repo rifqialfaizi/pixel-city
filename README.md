@@ -35,4 +35,4 @@ Alamofire
 AlamofireImage
 
 ## Preview
-<img src="./Screen Record/Screen Record.gif" alt="alt text" width="210px" height="408px">
+<img src="./Image/pixel-city.gif" alt="alt text" width="210px" height="408px">
